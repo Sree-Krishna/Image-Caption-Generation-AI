@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README.md file for your image captioning project on GitHub:
-
----
-
 # Image Captioning - Generate short descriptions for images
 
 ## Overview
@@ -48,5 +44,3 @@ This repository contains the code for an image captioning project implemented us
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
