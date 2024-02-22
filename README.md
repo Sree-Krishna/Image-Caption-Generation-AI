@@ -2,7 +2,7 @@ Certainly! Below is a template for a README.md file for your image captioning pr
 
 ---
 
-# Image Captioning with COCO Dataset and Transformers
+# Image Captioning - Generate short descriptions for images
 
 ## Overview
 This repository contains the code for an image captioning project implemented using the COCO (Common Objects in Context) dataset and Transformers. The project aims to generate descriptive captions for images using state-of-the-art deep learning techniques.
